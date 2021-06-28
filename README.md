@@ -1,4 +1,4 @@
-Dies ist das Begleitrepository zur Veröffentlichung [Methode zur Bewertung der Risikobilanz autonomer Fahrzeuge aus Kundensicht, Potdevin und Nowotka](https://...). Inhalt ist:
+Dies ist das Begleitrepository zur Veröffentlichung [Methode zur Bewertung der Risikobilanz autonomer Fahrzeuge aus Kundensicht, Potdevin und Nowotka](https://macau.uni-kiel.de/receive/macau_mods_00001452). Inhalt ist:
 
  * [stvu_analyse.R](stvu_analyse.R): Dieses Analyseprogramm wurde dem Forschungsdatenzentrum in Kiel übermittelt, um per kontrollierter Datenfernverarbeitung (KDFV) die Straßenverkehrsunfallstatistik des Bundes aus dem Jahr 2014 für unsere Zwecke zu analysieren. Die Ergebnisse des Durchlaufs von [stvu_analyse.R](stvu_analyse.R) befinden sich in [Rohdaten](Rohdaten). Quelle: FDZ der Statistischen Ämter des Bundes und der Länder, Straßenverkehrsunfälle, 2014, eigene Berechnungen.
  * [exposure.csv](exposure.csv): Zu Unfallursachen zugehörige Betriebssituationen mit den von uns vergebenen Häufigkeitsklassen (das Attribut confidence gibt es, wie sicher wir uns dieser Einschätzung sind).
